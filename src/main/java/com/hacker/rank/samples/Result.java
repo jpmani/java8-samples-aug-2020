@@ -37,4 +37,4 @@ class Result {
 		return finalSockPairsCount;
 	}
 
-}
+} 
